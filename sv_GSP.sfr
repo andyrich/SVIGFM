@@ -1,6 +1,6 @@
 #	SFR no unsat, ICALC = 1, with tab files in TABFILE folder											
 TABFILE	15	0	REALTIME		[TABFILE NTAB FILEIO TIMEOPTION]							
-seg1	EXTERNAL	151										
+seg1	EXTERNAL	151						 #can these be removed?				
 seg3	EXTERNAL	152										
 seg5	EXTERNAL	153										
 seg6	EXTERNAL	154										
